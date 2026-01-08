@@ -9,4 +9,5 @@ registrations(id, user_id, event_id, status, registered_at, created_at, updated_
 telepítés
 push
 .env
-sanctum 
+sanctum
+migrációk és modellek (users, event, registration) 
